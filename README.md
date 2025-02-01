@@ -13,6 +13,10 @@ Time Capsule products as well as other NAS devices from various vendors.
 This is afpfs-ng-0.8.2, it brings IPV6 support and includes many bugfixes.
 Read NEWS for more details.
 
+### Dependencies (Ubuntu 22.04)
+```bash
+sudo apt install libfuse-dev libreadline-dev libgcrypt20-dev
+```
 
 ### Installation
 
